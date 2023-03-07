@@ -6,10 +6,10 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>Administació de Comunitats | Administració de Finques | COMUNITATS.CAT</title>	
+		<title>Administació de Comunitats | Administració de Finques | Medi Comunitats</title>	
 
 		<meta name="keywords" content="comunitat, administrador, pressupost, veïns, lleida, tarrega, bellpuig, mollerussa" />
-		<meta name="description" content="Administració de comunitats i finques a Lleida. Troba'ns a Tàrrega, Mollerusa i Bellpuig. Demana Pressupost per canviar d'aministrador de comunitats.">
+		<meta name="description" content="Som Medi Comunitats, Administració de comunitats i finques a Lleida. Troba'ns a Tàrrega, Mollerusa i Bellpuig. Demana Pressupost per canviar d'aministrador de comunitats.">
 		<meta name="author" content="comunitats.cat">
 
 		<!-- COMMON-HEAD-STYLE -->
@@ -52,7 +52,7 @@
 										</div>
 									</div>
 									<!-- <div class="position-absolute left-100pct bottom-0 transform3dx-n50 w-75 ms-5">
-										<img src="img/slides/slide-1-engineer.png" class="img-fluid mw-100 w-auto appear-animation" alt="Engineer Image" data-appear-animation="fadeIn" data-appear-animation-delay="100" />
+										<img src="img/slides/slide-1-engineer.png" class="img-fluid mw-100 w-auto appear-animation" alt="" data-appear-animation="fadeIn" data-appear-animation-delay="100" />
 									</div> -->
 									<p class="position-absolute bottom-15 right-0 text-color-light font-weight-bold text-5-5 line-height-3 text-end pb-0 pb-lg-5 mb-0 d-none d-sm-block">
 										<span class="d-block position-relative z-index-1 pb-5 ps-lg-3 mb-5-5 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="1900">Administració de Comunitats i Finques</span>
@@ -113,7 +113,7 @@
 						<div class="col-lg-6">
 							<p class="font-weight-medium text-3-5 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="3200">Descobreix més sobre nosaltres, qui som i que us podem oferir per al <span class="highlight highlight-primary highlight-bg-opacity highlight-animated" data-appear-animation="highlight-animated-start" data-appear-animation-delay="4000" data-plugin-options="{'flagClassOnly': true}">millor funcionament de la vostra comunitat de propietaris.</span> Demanan's informació i pressupost.</p>
 
-							<a href="nosaltres.php" class="custom-view-more d-inline-flex font-weight-medium text-color-primary text-decoration-none appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="3400">+ info<img width="27" height="27" src="img/icons/arrow-right.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" /></a>
+							<a href="nosaltres.php" class="custom-view-more d-inline-flex font-weight-medium text-color-primary text-decoration-none appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="3400">+ info<img width="27" height="27" src="img/icons/arrow-right.svg" alt="Més Informació" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" /></a>
 						</div>
 					</div>
 				</div>
@@ -138,14 +138,13 @@
 										<p class="font-weight-light text-3-5 mb-3-5">Sabem com d'important és estar al dia dels comptes i que aquets siguin transparents disponibles per a tota la comunitat. Efectuem els cálculs acollint-nos a la legalitat vigent, proporcinals a la realitat de cada veí i d'acord amb les directrius que s'estableixen en les juntes anuals de propietaris.</p>
 										<a href="serveis.php" class="custom-view-more d-inline-flex font-weight-medium text-color-primary text-decoration-none">
 											+ info
-											<img width="27" height="27" src="img/icons/arrow-right.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" />
+											<img width="27" height="27" src="img/icons/arrow-right.svg" alt="Més Informació" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" />
 										</a>
 									</div>
 								</div>
 							</div>
 							<div class="col-md-6 mb-5 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="750">
 								<div class="d-flex">
-									<!--<img class="flex-0-0-auto" width="70" height="70" src="img/icons/winch.svg" alt="" data-icon data-plugin-options="{'animated': true, 'delay': 600, 'accY': 400, 'strokeBased': true, 'extraClass': 'svg-stroke-color-dark'}" /> -->
 									<div class="services-icons">
 										<i class="fa-solid fa-message"></i>
 									</div>
@@ -154,14 +153,13 @@
 										<p class="font-weight-light text-3-5 mb-3-5">Estem disponibles en els principals canals de comunicació: Whatsapp, e-mail i telèfon. Una vegada ens poseu la consulta, comencem a treballar per donar-li resposta i solució, treballant amb els millors proveïdors del municipi.</p>
 										<a href="serveis.php" class="custom-view-more d-inline-flex font-weight-medium text-color-primary text-decoration-none">
 											+ info
-											<img width="27" height="27" src="img/icons/arrow-right.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" />
+											<img width="27" height="27" src="img/icons/arrow-right.svg" alt="Més Informació" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" />
 										</a>
 									</div>
 								</div>
 							</div>
 							<div class="col-md-6 mb-5 mb-md-0 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="950">
 								<div class="d-flex">
-									<!--<img class="flex-0-0-auto" width="60" height="60" src="img/icons/paint-brush.svg" alt="" data-icon data-plugin-options="{'animated': true, 'delay': 900, 'strokeBased': true, 'extraClass': 'svg-stroke-color-dark'}" />-->
 									<div class="services-icons">
 										<i class="fa-solid fa-gavel"></i>
 									</div>
@@ -170,14 +168,13 @@
 										<p class="font-weight-light text-3-5 mb-3-5">Ens en ecarreguem de l'elaboració de nòmines, contractes i assegurances, seguint les directrius que la comunitat aprova en les juntes anuals. Us aconsellem en matèria legal en cas de dubtes relacionats amb la comunitat, a més d'aplicar les directrius més professionals i transparents en les nostrers accions.</p>
 										<a href="serveis.php" class="custom-view-more d-inline-flex font-weight-medium text-color-primary text-decoration-none">
 											+ info
-											<img width="27" height="27" src="img/icons/arrow-right.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" />
+											<img width="27" height="27" src="img/icons/arrow-right.svg" alt="Més Informació" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" />
 										</a>
 									</div>
 								</div>
 							</div>
 							<div class="col-md-6 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="1150">
 								<div class="d-flex">
-									<!--<img class="flex-0-0-auto" width="60" height="60" src="img/icons/pushcart.svg" alt="" data-icon data-plugin-options="{'animated': true, 'delay': 1200, 'strokeBased': true, 'extraClass': 'svg-stroke-color-dark'}" />-->
 									<div class="services-icons">
 										<i class="fa-solid fa-money-check-dollar"></i>
 									</div>
@@ -186,7 +183,7 @@
 										<p class="font-weight-light text-3-5 mb-3-5">Gestionem rebuts, remeses i cobraments a través de l'entitat bancària que la Comunitat designi. Gràcies a la nostra experiència us podrem assessorar l'elecció de la millor entitat bancària i ens en encarregarem de la negociació i tracte amb la mateixa.</p>
 										<a href="serveis.php" class="custom-view-more d-inline-flex font-weight-medium text-color-primary text-decoration-none">
 											+ info
-											<img width="27" height="27" src="img/icons/arrow-right.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" />
+											<img width="27" height="27" src="img/icons/arrow-right.svg" alt="Més Informació" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" />
 										</a>
 									</div>
 								</div>
@@ -308,9 +305,9 @@
 					<div class="row">
 						<div class="col-md-8 col-lg-6">
 							<p class="text-3-5 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="600">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis <span class="highlight highlight-primary highlight-bg-opacity highlight-animated" data-appear-animation="highlight-animated-start" data-appear-animation-delay="1100" data-plugin-options="{'flagClassOnly': true}">ultrices non hendrerit</span> vehicula leo, vel efficitur felis ultrices non.</p>
-							<a href="demo-construction-projects.php" class="custom-view-more d-inline-flex align-items-center btn btn-primary font-weight-semibold rounded-0 text-3-5 btn-px-4 btn-py-2 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="800">
+							<a href="#" class="custom-view-more d-inline-flex align-items-center btn btn-primary font-weight-semibold rounded-0 text-3-5 btn-px-4 btn-py-2 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="800">
 								View Projects
-								<img width="27" height="27" src="img/icons/arrow-right.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-light ms-2'}" />
+								<img width="27" height="27" src="img/icons/arrow-right.svg" alt="Més Informació" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-light ms-2'}" />
 							</a>
 						</div>
 					</div>
@@ -320,7 +317,7 @@
 					<div class="container">
 						<div class="row gy-5">
 							<div class="col-lg-6 text-center order-2 order-lg-1">
-								<img src="img/authors/author-anna-big.png" class="img-fluid" alt="Woman testimonial from Porto Magazine company" />
+								<img src="img/authors/author-anna-big.png" class="img-fluid" alt="Anna, co-fundadora de Medi Comunitats, Administració i Gestió de Comunitats i Finques" />
 							</div>
 							<div class="col-lg-6 align-self-center pb-lg-5 order-1 order-lg-2 ps-5 ps-lg-0">
 								<div class="testimonial testimonial-style-2 testimonial-with-quotes testimonial-remove-right-quote testimonial-quotes-dark custom-testimonial-quote-position-1 mb-0">

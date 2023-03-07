@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>Demo Construction | Porto - Multipurpose Website Template</title>	
+		<title>Project Details | Administració i Gestió de Comunitats i Finques | Medi Comunitats</title>	
 
 		<meta name="keywords" content="comunitat, administrador, pressupost, veïns, lleida, tarrega, bellpuig, mollerussa" />
 		<meta name="description" content="Administració de Comunitats. Gestió de Finques. Troba'ns a Lleida, Mollerussa, Tàrrega i Bellpuig" />
@@ -59,10 +59,10 @@
 						</div>
 						<div class="col-2">
 							<div class="custom-navigation-buttons-1 float-end d-flex align-items-center">
-								<a href="demo-construction-projects-detail.html" class="text-color-light text-decoration-none" data-bs-toggle="tooltip" data-bs-animation="false" data-bs-placement="top" data-bs-offset="0,10" title="One Lofts">
+								<a href="#" class="text-color-light text-decoration-none" data-bs-toggle="tooltip" data-bs-animation="false" data-bs-placement="top" data-bs-offset="0,10" title="One Lofts">
 									<i class="fas fa-chevron-left position-relative z-index-1"></i>
 								</a>
-								<a href="demo-construction-projects-detail.html" class="text-color-light text-decoration-none ms-4-5" data-bs-toggle="tooltip" data-bs-animation="false" data-bs-placement="top" data-bs-offset="0,10" title="Jet Hotels">
+								<a href="#" class="text-color-light text-decoration-none ms-4-5" data-bs-toggle="tooltip" data-bs-animation="false" data-bs-placement="top" data-bs-offset="0,10" title="Jet Hotels">
 									<i class="fas fa-chevron-right position-relative z-index-1"></i>
 								</a>
 							</div>

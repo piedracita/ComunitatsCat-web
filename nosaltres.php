@@ -6,10 +6,10 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>Demo Construction | Porto - Multipurpose Website Template</title>	
+		<title>Som Medi Comunitats | Administració de Comunitats i Finques</title>	
 
 		<meta name="keywords" content="comunitat, administrador, pressupost, veïns, lleida, tarrega, bellpuig, mollerussa" />
-		<meta name="description" content="Administració de Comunitats. Gestió de Finques. Troba'ns a Lleida, Mollerussa, Tàrrega i Bellpuig" />
+		<meta name="description" content="Descobreix qui som Medi Comunitats, la gestoría de especialitzada en l'Administració de Comunitats i Finques. Troba'ns a Lleida, Mollerussa, Tàrrega i Bellpuig" />
 		<meta name="author" content="comunitats.cat">
 
 		<!-- COMMON-HEAD-STYLE -->
@@ -57,7 +57,7 @@
 							<div id="who-we-are" class="row">
 								<div class="col">									
 									<h2 class="text-color-dark font-weight-bold text-7 line-height-1 mb-4">Qui som</h2>
-									<img src="img/team/team-top.jpg" class="img-fluid mb-4" alt="Engineer Man" />
+									<img src="img/team/team-top.jpg" class="img-fluid mb-4" alt="Equip Medi Comunitats, Administració de Comunitats i Finques" />
 									<p class="font-weight-medium text-4">A Medi Comunitats ens hem unit un equip poli-disciplinar per oferir un servei de proper, de confiança i de qualitat als propietaris de les comunitats de veïns que gestionem i ajudem a millorar. El nostre fort són les referències i el boca-orella entre comunitats, fet que ens fa sentir <span class="highlight highlight-primary highlight-bg-opacity highlight-animated" data-appear-animation="highlight-animated-start" data-appear-animation-delay="2000" data-plugin-options="{'flagClassOnly': true}">molt orgullosos de que valorin així de positivament la nostra feina i ens ajudin a crèixer</span> gràcies a les recomanacions, se'ns dubte és la nostra millor carta de presentació, la feina ben feta.</p>
 									<p class="font-weight-light text-3-5 mb-0">Des del naixement som un equip multi-disciplinar, amb una part enfocada en matèria legal i d'assessoria i l'altra en matèria comptable i de l'administració. Junts oferim un tracte proper i de qualitat a les nostres comunitats.</p>
 									<div class="row justify-content-center counters gy-4 gy-md-0 my-5-5">
@@ -147,7 +147,7 @@
 									<div class="row g-3">
 										<div class="col-md-6">
 											<div class="card border-0 border-radius-0">
-												<img src="img/team/team-anna.jpg" class="card-img-top border-radius-0" alt="John Doe Team Member Image" />
+												<img src="img/team/team-anna.jpg" class="card-img-top border-radius-0" alt="Anna és co-fundadora de medi comunitats, adminsitració de comunitats" />
 												<div class="card-body text-center px-4 py-5-5">
 													<h2 class="card-title alternative-font-4 text-color-dark font-weight-bold line-height-1 text-5 mb-1">Anna Castanyer</h2>
 													<p class="text-color-grey text-2-5 mb-3">Legal i Assessoria | Co-fundadora</p>
@@ -157,7 +157,7 @@
 										</div>
 										<div class="col-md-6">
 											<div class="card border-0 border-radius-0">
-												<img src="img/team/team-arnald.jpg" class="card-img-top border-radius-0" alt="Monica Doe Team Member Image" />
+												<img src="img/team/team-arnald.jpg" class="card-img-top border-radius-0" alt="Arnald és Co-fundador de Medi Comunitats, administració i gestió de finques" />
 												<div class="card-body text-center px-4 py-5-5">
 													<h2 class="card-title alternative-font-4 text-color-dark font-weight-bold line-height-1 text-5 mb-1">Arnald Pedrós</h2>
 													<p class="text-color-grey text-2-5 mb-3">Administració i Comptes | Co-fundador</p>
@@ -230,7 +230,7 @@
 
 								<form class="contact-form form-style-3" action="php/contact-form.php" method="POST">
 									<div class="contact-form-success alert alert-success d-none mt-4">
-										<strong>Gràcies!</strong> Hem rebeut el teu missatge.
+										<strong>Gràcies!</strong> Hem rebut el teu missatge.
 									</div>
 
 									<div class="contact-form-error alert alert-danger d-none mt-4">
@@ -262,7 +262,7 @@
 										<div class="form-group col">
 											<button type="submit" class="custom-view-more d-inline-flex align-items-center btn btn-primary font-weight-semibold rounded-0 text-2 btn-px-4 btn-py-1" data-loading-text="Carregant...">
 												Enviar
-												<img width="27" height="27" src="img/icons/arrow-right.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-light ms-2'}" />
+												<img width="27" height="27" src="img/icons/arrow-right.svg" alt="Enviar" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-light ms-2'}" />
 											</button>
 										</div>
 									</div>

@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>Demo Construction | Porto - Multipurpose Website Template</title>	
+		<title>Serveis | Administració de Comunitats i Finques | Medi Comunitats</title>	
 
 		<meta name="keywords" content="comunitat, administrador, pressupost, veïns, lleida, tarrega, bellpuig, mollerussa" />
 		<meta name="description" content="Administració de Comunitats. Gestió de Finques. Troba'ns a Lleida, Mollerussa, Tàrrega i Bellpuig" />
@@ -68,7 +68,7 @@
 											<p class="font-weight-light text-3-5 mb-4-5">Sabem com d'important és estar al dia dels comptes i que aquets siguin transparents disponibles per a tota la comunitat. Efectuem els cálculs acollint-nos a la legalitat vigent, proporcinals a la realitat de cada veí i d'acord amb les directrius que s'estableixen en les juntes anuals de propietaris.</p>
 											<a href="serveis.php" class="custom-view-more d-inline-flex font-weight-medium text-color-primary text-decoration-none">
 												+ info
-												<img width="27" height="27" src="img/icons/arrow-right.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" />
+												<img width="27" height="27" src="img/icons/arrow-right.svg" alt="Més Informació" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" />
 											</a>
 										</div>
 									</div>
@@ -78,13 +78,12 @@
 										<div class="services-icons-services-page">
 											<i class="fa-solid fa-message"></i>
 										</div>
-										<!-- <img class="flex-0-0-auto" width="85" height="85" src="img/icons/faucet.svg" alt="" data-icon data-plugin-options="{'animated': true, 'delay': 1900, 'accY': 400, 'strokeBased': true, 'extraClass': 'svg-stroke-color-dark px-0 px-sm-5 pb-4 pb-sm-0 pt-3'}" /> -->
 										<div class="text-center text-sm-start">
 											<h3 class="text-color-dark font-weight-bold text-transform-none text-5-5 mb-3-5">Atenció a la comunitat 24/7</h3>
 											<p class="font-weight-light text-3-5 mb-4-5">Estem disponibles en els principals canals de comunicació: Whatsapp, e-mail i telèfon. Una vegada ens poseu la consulta, comencem a treballar per donar-li resposta i solució, treballant amb els millors proveïdors del municipi.</p>
 											<a href="serveis.php" class="custom-view-more d-inline-flex font-weight-medium text-color-primary text-decoration-none">
 												+ info
-												<img width="27" height="27" src="img/icons/arrow-right.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" />
+												<img width="27" height="27" src="img/icons/arrow-right.svg" alt="Més Informació" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" />
 											</a>
 										</div>
 									</div>
@@ -94,13 +93,12 @@
 										<div class="services-icons-services-page">
 											<i class="fa-solid fa-gavel"></i>
 										</div>
-										<!-- <img class="flex-0-0-auto" width="85" height="85" src="img/icons/paint-brush.svg" alt="" data-icon data-plugin-options="{'animated': true, 'delay': 2100, 'accY': 400, 'strokeBased': true, 'extraClass': 'svg-stroke-color-dark px-0 px-sm-5 pb-4 pb-sm-0 pt-3'}" /> -->
 										<div class="text-center text-sm-start">
 											<h3 class="text-color-dark font-weight-bold text-transform-none text-5-5 mb-3-5">Consultes, Nòmines i Assessorament Legal</h3>
 											<p class="font-weight-light text-3-5 mb-4-5">Ens en ecarreguem de l'elaboració de nòmines, contractes i assegurances, seguint les directrius que la comunitat aprova en les juntes anuals. Us aconsellem en matèria legal en cas de dubtes relacionats amb la comunitat, a més d'aplicar les directrius més professionals i transparents en les nostrers accions.</p>
 											<a href="serveis.php" class="custom-view-more d-inline-flex font-weight-medium text-color-primary text-decoration-none">
 												+ info
-												<img width="27" height="27" src="img/icons/arrow-right.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" />
+												<img width="27" height="27" src="img/icons/arrow-right.svg" alt="Més Informació" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" />
 											</a>
 										</div>
 									</div>
@@ -110,13 +108,12 @@
 										<div class="services-icons-services-page">
 											<i class="fa-solid fa-money-check-dollar"></i>
 										</div>
-										<!-- <img class="flex-0-0-auto" width="85" height="85" src="img/icons/pushcart.svg" alt="" data-icon data-plugin-options="{'animated': true, 'delay': 600, 'accY': 400, 'strokeBased': true, 'extraClass': 'svg-stroke-color-dark px-0 px-sm-5 pb-4 pb-sm-0 pt-3'}" /> -->
 										<div class="text-center text-sm-start">
 											<h3 class="text-color-dark font-weight-bold text-transform-none text-5-5 mb-3-5">Rebuts, Remeses Bancàries i Cobraments</h3>
 											<p class="font-weight-light text-3-5 mb-4-5">Gestionem rebuts, remeses i cobraments a través de l'entitat bancària que la Comunitat designi. Gràcies a la nostra experiència us podrem assessorar l'elecció de la millor entitat bancària i ens en encarregarem de la negociació i tracte amb la mateixa.</p>
 											<a href="serveis.php" class="custom-view-more d-inline-flex font-weight-medium text-color-primary text-decoration-none">
 												+ info
-												<img width="27" height="27" src="img/icons/arrow-right.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" />
+												<img width="27" height="27" src="img/icons/arrow-right.svg" alt="Més Informació" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" />
 											</a>
 										</div>
 									</div>
@@ -124,9 +121,9 @@
 							</div>
 						</div>
 
-						<!-- COMMON-SIDEBAR-CA -->
-						<?php include "common-php/blog/sidebar/ca.html"; ?>
-						<!-- COMMON-SIDEBAR-CA END -->
+						<!-- COMMON-SERVEIS-SIDEBAR-CA -->
+						<?php include "common-php/serveis/sidebar/ca.html"; ?>
+						<!-- COMMON-SERVEIS-SIDEBAR-CA END -->
 					</div>
 				</div>
 

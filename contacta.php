@@ -6,10 +6,10 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>Demo Construction | Porto - Multipurpose Website Template</title>	
+		<title>Contacta | Adminsitració de Comunitats i Finques | Medi Comunitas</title>	
 
 		<meta name="keywords" content="comunitat, administrador, pressupost, veïns, lleida, tarrega, bellpuig, mollerussa" />
-		<meta name="description" content="Administració de Comunitats. Gestió de Finques. Troba'ns a Lleida, Mollerussa, Tàrrega i Bellpuig" />
+		<meta name="description" content="Contacta amb Administració de Comunitats i Gestió de Finques, t'oferim pressupost a l'instant per canviar de comunitat. Troba'ns a Lleida, Mollerussa, Tàrrega i Bellpuig" />
 		<meta name="author" content="comunitats.cat">
 
 		<!-- COMMON-HEAD-STYLE -->
@@ -58,14 +58,14 @@
 								<div class="col-auto">
 									<h3 class="d-block text-color-grey positive-ls-3 font-weight-medium text-2 mb-1">Trucan's</h3>
 									<a href="tel:+34625171701" target="_blank" class="d-flex align-items-center text-decoration-none text-color-dark text-color-hover-primary font-weight-bold text-3-5">
-										<img width="23" height="23" src="img/icons/phone.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-dark me-2'}" />
+										<img width="23" height="23" src="img/icons/phone.svg" alt="Imatge d'un telèfon" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-dark me-2'}" />
 										625 171 701
 									</a>
 								</div>
 								<div class="col-auto">
 									<h3 class="d-block text-color-grey positive-ls-3 font-weight-medium text-2 mb-1">ENVIAR E-MAIL</h3>
 									<a href="mailto:admin@comunitats.cat" target="_blank" class="d-flex align-items-center text-decoration-none text-color-dark text-color-hover-primary font-weight-bold text-3-5">
-										<img width="23" height="23" src="img/icons/email.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-dark me-2'}" />
+										<img width="23" height="23" src="img/icons/email.svg" alt="Enviar Correu Eletrònic" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-dark me-2'}" />
 										admin@comunitats.cat
 									</a>
 								</div>
@@ -74,13 +74,13 @@
 						<div class="col-lg-6 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="1600">
 							<h3 class="d-block text-color-grey positive-ls-3 font-weight-medium text-2 mb-1">TROBA'NS</h3>
 							<span class="d-flex align-items-center text-color-dark font-weight-bold text-3-5">
-								<img width="23" height="23" src="img/icons/location.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-dark me-2'}" />Alcalde Sala 2 | Bellpuig, 25250 | Lleida
+								<img width="23" height="23" src="img/icons/location.svg" alt="Imatge d'ubicació" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-dark me-2'}" />Alcalde Sala 2 | Bellpuig, 25250 | Lleida
 							</span><br>
 							<span class="d-flex align-items-center text-color-dark font-weight-bold text-3-5">
-								<img width="23" height="23" src="img/icons/location.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-dark me-2'}" />Roger de Llúria 13-15 | Tarragona, 43004 | Tarragona
+								<img width="23" height="23" src="img/icons/location.svg" alt="Imatge d'ubicació" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-dark me-2'}" />Roger de Llúria 13-15 | Tarragona, 43004 | Tarragona
 							</span><br>
 							<span class="d-flex align-items-center text-color-dark font-weight-bold text-3-5">
-								<img width="23" height="23" src="img/icons/location.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-dark me-2'}" />Carrer del Sol 60 | Salou, 43840 | Salou
+								<img width="23" height="23" src="img/icons/location.svg" alt="Imatge d'ubicació" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-dark me-2'}" />Carrer del Sol 60 | Salou, 43840 | Salou
 							</span>
 						</div>
 					</div>
@@ -123,7 +123,7 @@
 									<div class="form-group col">
 										<button type="submit" class="custom-view-more d-inline-flex align-items-center btn btn-primary font-weight-semibold rounded-0 text-3-5 btn-px-4 btn-py-2" data-loading-text="Loading...">
 											Submit
-											<img width="27" height="27" src="img/icons/arrow-right.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-light ms-2'}" />
+											<img width="27" height="27" src="img/icons/arrow-right.svg" alt="Més Informació" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-light ms-2'}" />
 										</button>
 									</div>
 								</div>
@@ -157,7 +157,7 @@
 		<?php include "common-php/body-scripts.html"; ?>
 		<!-- COMMON-BODY-SCRIPTS END -->
 
-	<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>
+	<!-- <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>
 		<script>
 
 			/*
@@ -229,7 +229,7 @@
 				$('#googlemaps').gMap("centerAt", options);
 			}
 
-		</script>
+		</script> -->
 
 	</body>
 </html>

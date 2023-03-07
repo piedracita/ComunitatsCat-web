@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>Demo Construction | Porto - Multipurpose Website Template</title>	
+		<title>Projectes | Administració i Gestió de Comunitats i Finques | Medi Comunitats</title>	
 
 		<meta name="keywords" content="comunitat, administrador, pressupost, veïns, lleida, tarrega, bellpuig, mollerussa" />
 		<meta name="description" content="Administració de Comunitats. Gestió de Finques. Troba'ns a Lleida, Mollerussa, Tàrrega i Bellpuig" />
@@ -70,7 +70,7 @@
 												<div class="thumb-info-wrapper">
 													<img src="img/generic/generic-1-medium.jpg" class="img-fluid" alt="Pre Construction Image Sample">
 													<div class="thumb-info-action">
-														<a href="demo-construction-projects-detail.html">
+														<a href="#">
 															<div class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></div>
 														</a>
 													</div>
@@ -78,7 +78,7 @@
 											</div>
 											<span class="d-block text-color-grey positive-ls-3 font-weight-medium text-2">NEW YORK</span>
 											<h2 class="font-weight-bold text-5-5 line-height-3">
-												<a href="demo-construction-projects-detail.html" class="text-color-dark text-color-hover-primary text-decoration-none">Porto Building</a>
+												<a href="#" class="text-color-dark text-color-hover-primary text-decoration-none">Porto Building</a>
 											</h2>
 										</div>
 									</div>
@@ -88,7 +88,7 @@
 												<div class="thumb-info-wrapper">
 													<img src="img/generic/generic-3-medium.jpg" class="img-fluid" alt="Pre Construction Image Sample">
 													<div class="thumb-info-action">
-														<a href="demo-construction-projects-detail.html">
+														<a href="#">
 															<div class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></div>
 														</a>
 													</div>
@@ -96,7 +96,7 @@
 											</div>
 											<span class="d-block text-color-grey positive-ls-3 font-weight-medium text-2">NEW YORK</span>
 											<h2 class="font-weight-bold text-5-5 line-height-3">
-												<a href="demo-construction-projects-detail.html" class="text-color-dark text-color-hover-primary text-decoration-none">Okler Towers</a>
+												<a href="#" class="text-color-dark text-color-hover-primary text-decoration-none">Okler Towers</a>
 											</h2>
 										</div>
 									</div>
@@ -106,7 +106,7 @@
 												<div class="thumb-info-wrapper">
 													<img src="img/generic/generic-2-medium.jpg" class="img-fluid" alt="Pre Construction Image Sample">
 													<div class="thumb-info-action">
-														<a href="demo-construction-projects-detail.html">
+														<a href="#">
 															<div class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></div>
 														</a>
 													</div>
@@ -114,7 +114,7 @@
 											</div>
 											<span class="d-block text-color-grey positive-ls-3 font-weight-medium text-2">NEW YORK</span>
 											<h2 class="font-weight-bold text-5-5 line-height-3">
-												<a href="demo-construction-projects-detail.html" class="text-color-dark text-color-hover-primary text-decoration-none">Jet Hotels</a>
+												<a href="#" class="text-color-dark text-color-hover-primary text-decoration-none">Jet Hotels</a>
 											</h2>
 										</div>
 									</div>
@@ -124,7 +124,7 @@
 												<div class="thumb-info-wrapper">
 													<img src="img/generic/generic-9-medium.jpg" class="img-fluid" alt="Pre Construction Image Sample">
 													<div class="thumb-info-action">
-														<a href="demo-construction-projects-detail.html">
+														<a href="#">
 															<div class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></div>
 														</a>
 													</div>
@@ -132,7 +132,7 @@
 											</div>
 											<span class="d-block text-color-grey positive-ls-3 font-weight-medium text-2">NEW YORK</span>
 											<h2 class="font-weight-bold text-5-5 line-height-3">
-												<a href="demo-construction-projects-detail.html" class="text-color-dark text-color-hover-primary text-decoration-none">Okler Mansion</a>
+												<a href="#" class="text-color-dark text-color-hover-primary text-decoration-none">Okler Mansion</a>
 											</h2>
 										</div>
 									</div>
@@ -142,7 +142,7 @@
 												<div class="thumb-info-wrapper">
 													<img src="img/generic/generic-6-medium.jpg" class="img-fluid" alt="Pre Construction Image Sample">
 													<div class="thumb-info-action">
-														<a href="demo-construction-projects-detail.html">
+														<a href="#">
 															<div class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></div>
 														</a>
 													</div>
@@ -150,7 +150,7 @@
 											</div>
 											<span class="d-block text-color-grey positive-ls-3 font-weight-medium text-2">NEW YORK</span>
 											<h2 class="font-weight-bold text-5-5 line-height-3">
-												<a href="demo-construction-projects-detail.html" class="text-color-dark text-color-hover-primary text-decoration-none">Top Building</a>
+												<a href="#" class="text-color-dark text-color-hover-primary text-decoration-none">Top Building</a>
 											</h2>
 										</div>
 									</div>
@@ -160,7 +160,7 @@
 												<div class="thumb-info-wrapper">
 													<img src="img/generic/generic-10-medium.jpg" class="img-fluid" alt="Pre Construction Image Sample">
 													<div class="thumb-info-action">
-														<a href="demo-construction-projects-detail.html">
+														<a href="#">
 															<div class="thumb-info-action-icon thumb-info-action-icon-light"><i class="fas fa-plus text-dark"></i></div>
 														</a>
 													</div>
@@ -168,7 +168,7 @@
 											</div>
 											<span class="d-block text-color-grey positive-ls-3 font-weight-medium text-2">NEW YORK</span>
 											<h2 class="font-weight-bold text-5-5 line-height-3">
-												<a href="demo-construction-projects-detail.html" class="text-color-dark text-color-hover-primary text-decoration-none">One Lofts</a>
+												<a href="#" class="text-color-dark text-color-hover-primary text-decoration-none">One Lofts</a>
 											</h2>
 										</div>
 									</div>

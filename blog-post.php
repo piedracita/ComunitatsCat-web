@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>Demo Construction | Porto - Multipurpose Website Template</title>	
+		<title>Blog Post | Administració i Gestió de Comunitats i Finques | Medi Comunitats</title>	
 
 		<meta name="keywords" content="comunitat, administrador, pressupost, veïns, lleida, tarrega, bellpuig, mollerussa" />
 		<meta name="description" content="Administració de Comunitats. Gestió de Finques. Troba'ns a Lleida, Mollerussa, Tàrrega i Bellpuig" />
@@ -78,7 +78,7 @@
 											<div class="post-block post-author">
 												<h3 class="text-color-primary text-capitalize font-weight-bold text-5 m-0 mb-3">Author</h3>
 												<div class="img-thumbnail img-thumbnail-no-borders d-block pb-3">
-													<a href="blog-post.php">
+													<a href="#">
 														<img src="img/avatars/avatar.jpg" class="rounded-circle" alt="">
 													</a>
 												</div>

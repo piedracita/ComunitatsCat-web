@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>Demo Construction | Porto - Multipurpose Website Template</title>	
+		<title>Serveis Info | Administració i Gestió de Comunitats i Finques | Medi Comunitats</title>	
 
 		<meta name="keywords" content="comunitat, administrador, pressupost, veïns, lleida, tarrega, bellpuig, mollerussa" />
 		<meta name="description" content="Administració de Comunitats. Gestió de Finques. Troba'ns a Lleida, Mollerussa, Tàrrega i Bellpuig" />
@@ -57,7 +57,7 @@
 							<h2 class="font-weight-bold text-color-dark mb-4 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="1400">General Construction</h2>
 							<p class="font-weight-semibold line-height-8 text-4 mb-3 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="1600">Gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odasio. </p>
 							<p class="text-3-5 font-weight-light mb-5-5 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="1800">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ultricies nunc, eu interdum enim convallis pretium. Quisque eu neque augue. Aliquam egestas nunc at efficitur faucibus. Praesent mauris eros, tincidunt id enim sodales, rhoncus malesuada ligula. </p>
-							<img src="img/generic/generic-5-wide.jpg" class="img-fluid mb-5-5 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="2000" alt="Building in Construction" />
+							<img src="img/generic/generic-5-wide.jpg" class="img-fluid mb-5-5 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="2000" alt="" />
 							<p class="text-3-5 font-weight-light mb-5-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ultricies nunc, eu interdum enim convallis pretium. Quisque eu neque augue. Aliquam egestas nunc at efficitur faucibus. Praesent mauris eros, tincidunt id enim sodales, rhoncus malesuada ligula. </p>
 							<div class="accordion custom-accordion-style-1 mb-5-5" id="accordion1">
 								<div class="card card-default">
@@ -164,9 +164,9 @@
 
 						</div>
 
-						<!-- COMMON-SIDEBAR-CA -->
-						<?php include "common-php/blog/sidebar/ca.html"; ?>
-						<!-- COMMON-SIDEBAR-CA END -->
+						<!-- COMMON-SERVEIS-SIDEBAR-CA -->
+						<?php include "common-php/serveis/sidebar/ca.html"; ?>
+						<!-- COMMON-SERVEIS-SIDEBAR-CA END -->
 					</div>
 				</div>
 
