@@ -55,7 +55,7 @@
 										<img src="img/slides/slide-1-engineer.png" class="img-fluid mw-100 w-auto appear-animation" alt="" data-appear-animation="fadeIn" data-appear-animation-delay="100" />
 									</div> -->
 									<p class="position-absolute bottom-15 right-0 text-color-light font-weight-bold text-5-5 line-height-3 text-end pb-0 pb-lg-5 mb-0 d-none d-sm-block">
-										<span class="d-block position-relative z-index-1 pb-5 ps-lg-3 mb-5-5 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="1900">Administració de Comunitats i Finques</span>
+										<span class="d-block position-relative z-index-1 pb-5 ps-lg-3 mb-5-5 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="1000">Administració de Comunitats i Finques</span>
 										<span class="custom-svg-position-1">
 											<svg class="svg-fill-color-primary mt-1 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="1200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 859.45 88.44" xml:space="preserve" preserveAspectRatio="none">
 												<polyline points="7.27,84.78 855.17,84.78 855.17,4.79 84.74,4.79 "/>
@@ -111,9 +111,9 @@
 							</svg>
 						</div>
 						<div class="col-lg-6">
-							<p class="font-weight-medium text-3-5 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="3200">Descobreix més sobre nosaltres, qui som i que us podem oferir per al <span class="highlight highlight-primary highlight-bg-opacity highlight-animated" data-appear-animation="highlight-animated-start" data-appear-animation-delay="4000" data-plugin-options="{'flagClassOnly': true}">millor funcionament de la vostra comunitat de propietaris.</span> Demanan's informació i pressupost.</p>
+							<p class="font-weight-medium text-3-5 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="2600">Descobreix més sobre nosaltres, qui som i que us podem oferir per al <span class="highlight highlight-primary highlight-bg-opacity highlight-animated" data-appear-animation="highlight-animated-start" data-appear-animation-delay="3000" data-plugin-options="{'flagClassOnly': true}">millor funcionament de la vostra comunitat de propietaris.</span> Demanan's informació i pressupost.</p>
 
-							<a href="nosaltres.php" class="custom-view-more d-inline-flex font-weight-medium text-color-primary text-decoration-none appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="3400">+ info<img width="27" height="27" src="img/icons/arrow-right.svg" alt="Més Informació" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" /></a>
+							<a href="nosaltres.php" class="custom-view-more d-inline-flex font-weight-medium text-color-primary text-decoration-none appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="3000">+ info<img width="27" height="27" src="img/icons/arrow-right.svg" alt="Més Informació" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary ms-2'}" /></a>
 						</div>
 					</div>
 				</div>
@@ -127,7 +127,7 @@
 							</div>
 						</div>
 						<div class="row">
-							<div class="col-md-6 mb-5 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="550">
+							<div class="col-md-6 mb-5 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="600">
 								<div class="d-flex">
 									<div class="services-icons">
 										<i class="fa-solid fa-receipt"></i>
@@ -143,7 +143,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-6 mb-5 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="750">
+							<div class="col-md-6 mb-5 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="700">
 								<div class="d-flex">
 									<div class="services-icons">
 										<i class="fa-solid fa-message"></i>
@@ -158,7 +158,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-6 mb-5 mb-md-0 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="950">
+							<div class="col-md-6 mb-5 mb-md-0 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="800">
 								<div class="d-flex">
 									<div class="services-icons">
 										<i class="fa-solid fa-gavel"></i>
@@ -173,7 +173,7 @@
 									</div>
 								</div>
 							</div>
-							<div class="col-md-6 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="1150">
+							<div class="col-md-6 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="900">
 								<div class="d-flex">
 									<div class="services-icons">
 										<i class="fa-solid fa-money-check-dollar"></i>
@@ -371,7 +371,7 @@
 
 				<div class="position-relative pb-5 d-sm-none d-xl-block">
 					<div class="position-absolute transform3dy-n50 left-0">
-						<div class="appear-animation" data-appear-animation="fadeInRightShorterPlus" data-appear-animation-delay="1500" data-appear-animation-duration="1500ms">
+						<div class="appear-animation" data-appear-animation="fadeInRightShorterPlus" data-appear-animation-delay="1000" data-appear-animation-duration="1500ms">
 							<div class="custom-square-1 bg-primary mt-0 mb-5"></div>
 						</div>
 					</div>

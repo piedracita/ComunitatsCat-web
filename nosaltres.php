@@ -39,9 +39,9 @@
 									<li class="active">Medi Comunitats</li>
 								</ul>
 				                <h1 class="position-absolute top-100 left-0 text-color-light font-weight-bold text-6 line-height-3 text-end mt-5-5">
-				                    <span class="d-block position-relative z-index-1 pb-5 ps-lg-3 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="800">Medi Comunitats</span>
+				                    <span class="d-block position-relative z-index-1 pb-5 ps-lg-3 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="200">Medi Comunitats</span>
 				                    <span class="custom-svg-position-1 custom-svg-position-1-variation">
-				                        <svg class="svg-fill-color-dark mt-1 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 859.45 88.44" xml:space="preserve" preserveAspectRatio="none">
+				                        <svg class="svg-fill-color-dark mt-1 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 859.45 88.44" xml:space="preserve" preserveAspectRatio="none">
 				                            <polyline points="7.27,84.78 855.17,84.78 855.17,4.79 84.74,4.79 "/>
 				                        </svg>
 				                    </span>
@@ -53,12 +53,12 @@
 
 				<div class="container custom-margin-1">
 					<div class="row gy-5 gy-lg-0">
-						<div class="col-lg-8 order-lg-2 mt-0 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="1200">
+						<div class="col-lg-8 order-lg-2 mt-0 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="500">
 							<div id="who-we-are" class="row">
 								<div class="col">									
 									<h2 class="text-color-dark font-weight-bold text-7 line-height-1 mb-4">Qui som</h2>
 									<img src="img/team/team-top.jpg" class="img-fluid mb-4" alt="Equip Medi Comunitats, Administració de Comunitats i Finques" />
-									<p class="font-weight-medium text-4">A Medi Comunitats ens hem unit un equip poli-disciplinar per oferir un servei de proper, de confiança i de qualitat als propietaris de les comunitats de veïns que gestionem i ajudem a millorar. El nostre fort són les referències i el boca-orella entre comunitats, fet que ens fa sentir <span class="highlight highlight-primary highlight-bg-opacity highlight-animated" data-appear-animation="highlight-animated-start" data-appear-animation-delay="2000" data-plugin-options="{'flagClassOnly': true}">molt orgullosos de que valorin així de positivament la nostra feina i ens ajudin a crèixer</span> gràcies a les recomanacions, se'ns dubte és la nostra millor carta de presentació, la feina ben feta.</p>
+									<p class="font-weight-medium text-4">A Medi Comunitats ens hem unit un equip poli-disciplinar per oferir un servei de proper, de confiança i de qualitat als propietaris de les comunitats de veïns que gestionem i ajudem a millorar. El nostre fort són les referències i el boca-orella entre comunitats, fet que ens fa sentir <span class="highlight highlight-primary highlight-bg-opacity highlight-animated" data-appear-animation="highlight-animated-start" data-appear-animation-delay="1000" data-plugin-options="{'flagClassOnly': true}">molt orgullosos de que valorin així de positivament la nostra feina i ens ajudin a crèixer</span> gràcies a les recomanacions, se'ns dubte és la nostra millor carta de presentació, la feina ben feta.</p>
 									<p class="font-weight-light text-3-5 mb-0">Des del naixement som un equip multi-disciplinar, amb una part enfocada en matèria legal i d'assessoria i l'altra en matèria comptable i de l'administració. Junts oferim un tracte proper i de qualitat a les nostres comunitats.</p>
 									<div class="row justify-content-center counters gy-4 gy-md-0 my-5-5">
 										<div class="col-md-auto mt-0">
@@ -124,17 +124,17 @@
 										</ul>
 										<div class="tab-content">
 											<div class="tab-pane active" id="tabsMissionVision1">
-												<p class="text-3-5 font-weight-light mb-0">A Medi Comunitats busquem un <span class="highlight highlight-primary highlight-bg-opacity highlight-animated" data-appear-animation="highlight-animated-start" data-appear-animation-delay="1200" data-plugin-options="{'flagClassOnly': true}">tracte proper i de qualitat amb els veïns</span> que ens confien l'administració de la seva comunitat, parant especial atenció a la bona gesitó, per assegurar la bona relació ente veïns, i als beneficis de transparència i agilitat que ens dona el món digital
+												<p class="text-3-5 font-weight-light mb-0">A Medi Comunitats busquem un <span class="highlight highlight-primary highlight-bg-opacity highlight-animated" data-appear-animation="highlight-animated-start" data-appear-animation-delay="1000" data-plugin-options="{'flagClassOnly': true}">tracte proper i de qualitat amb els veïns</span> que ens confien l'administració de la seva comunitat, parant especial atenció a la bona gesitó, per assegurar la bona relació ente veïns, i als beneficis de transparència i agilitat que ens dona el món digital
 
 												<!--La misión de una empresa es una herramienta estratégica que sintetiza el propósito de una empresa. Es el objetivo o la propuesta que sirve a la sociedad, así como la base del plan de negocios y de las estrategias operativas. Generalmente incluye una descripción general de la organización, su función y objetivos.-->
 											</div>
 											<div class="tab-pane" id="tabsMissionVision2">
-												<p class="text-3-5 font-weight-light mb-0">Busquem ser transparents amb el client, perquè sabem que és així com aconseguirem <span class="highlight highlight-primary highlight-bg-opacity highlight-animated" data-appear-animation="highlight-animated-start" data-appear-animation-delay="1200" data-plugin-options="{'flagClassOnly': true}">crear el tracte de confiança que busquen els veïns</span>, és per aquest motiu que ens centrem en donar un tracte proper i de qualitat, en millora constant, per a que els veïns estiguin tranquils i tinguin la certesa de que la seva comunitat està en bones mans.</p>
+												<p class="text-3-5 font-weight-light mb-0">Busquem ser transparents amb el client, perquè sabem que és així com aconseguirem <span class="highlight highlight-primary highlight-bg-opacity highlight-animated" data-appear-animation="highlight-animated-start" data-appear-animation-delay="1000" data-plugin-options="{'flagClassOnly': true}">crear el tracte de confiança que busquen els veïns</span>, és per aquest motiu que ens centrem en donar un tracte proper i de qualitat, en millora constant, per a que els veïns estiguin tranquils i tinguin la certesa de que la seva comunitat està en bones mans.</p>
 
 												<!--La visión de una empresa es una meta de plazo amplio en la que se establece la aspiración sobre los logros de una empresa y lo que se desea acerca de su estado futuro. Así, la visión define la ruta a seguir, tanto para los directivos como para los empleados.-->
 											</div>
 											<div class="tab-pane" id="tabsMissionVision3">
-												<p class="text-3-5 font-weight-light mb-0">Treballem amb <span class="highlight highlight-primary highlight-bg-opacity highlight-animated" data-appear-animation="highlight-animated-start" data-appear-animation-delay="1200" data-plugin-options="{'flagClassOnly': true}">les principals plataformes de comunicació</span>, les mateixes que utilitzen els nostres clients, així ens comuniquem per Whatsapp, compartim els documents i tenim sempre al "núbol" tot el material administratiu i de gestió que, en general, la comunitat necessita, i en particular, cada veí.</p>
+												<p class="text-3-5 font-weight-light mb-0">Treballem amb <span class="highlight highlight-primary highlight-bg-opacity highlight-animated" data-appear-animation="highlight-animated-start" data-appear-animation-delay="1000" data-plugin-options="{'flagClassOnly': true}">les principals plataformes de comunicació</span>, les mateixes que utilitzen els nostres clients, així ens comuniquem per Whatsapp, compartim els documents i tenim sempre al "núbol" tot el material administratiu i de gestió que, en general, la comunitat necessita, i en particular, cada veí.</p>
 													<!--Los valores corporativos son los principios que orientan las acciones y decisiones laborales. Tienen implicaciones sociales y de desarrollo en las dinámicas de trabajo y en el servicio al cliente.-->
 											</div>
 										</div>

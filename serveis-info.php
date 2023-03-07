@@ -39,9 +39,9 @@
 									<li class="active">Serveis</li>
 								</ul>
 				                <h1 class="position-absolute top-100 left-0 text-color-light font-weight-bold text-6 line-height-3 text-end mt-5-5">
-				                    <span class="d-block position-relative z-index-1 pb-5 ps-lg-3 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="800">Serveis</span>
+				                    <span class="d-block position-relative z-index-1 pb-5 ps-lg-3 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="200">Serveis</span>
 				                    <span class="custom-svg-position-1 custom-svg-position-1-variation">
-				                        <svg class="svg-fill-color-dark mt-1 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 859.45 88.44" xml:space="preserve" preserveAspectRatio="none">
+				                        <svg class="svg-fill-color-dark mt-1 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 859.45 88.44" xml:space="preserve" preserveAspectRatio="none">
 				                            <polyline points="7.27,84.78 855.17,84.78 855.17,4.79 84.74,4.79 "/>
 				                        </svg>
 				                    </span>
@@ -53,11 +53,11 @@
 
 				<div class="container custom-margin-1">
 					<div class="row gy-5 gy-lg-0 pt-3 pt-lg-0 mt-5 mt-lg-0">
-						<div class="col-lg-8 order-lg-2 mt-0 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="1200">
-							<h2 class="font-weight-bold text-color-dark mb-4 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="1400">General Construction</h2>
-							<p class="font-weight-semibold line-height-8 text-4 mb-3 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="1600">Gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odasio. </p>
-							<p class="text-3-5 font-weight-light mb-5-5 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="1800">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ultricies nunc, eu interdum enim convallis pretium. Quisque eu neque augue. Aliquam egestas nunc at efficitur faucibus. Praesent mauris eros, tincidunt id enim sodales, rhoncus malesuada ligula. </p>
-							<img src="img/generic/generic-5-wide.jpg" class="img-fluid mb-5-5 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="2000" alt="" />
+						<div class="col-lg-8 order-lg-2 mt-0 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="500">
+							<h2 class="font-weight-bold text-color-dark mb-4 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="550">General Construction</h2>
+							<p class="font-weight-semibold line-height-8 text-4 mb-3 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="1000">Gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odasio. </p>
+							<p class="text-3-5 font-weight-light mb-5-5 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="600">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ultricies nunc, eu interdum enim convallis pretium. Quisque eu neque augue. Aliquam egestas nunc at efficitur faucibus. Praesent mauris eros, tincidunt id enim sodales, rhoncus malesuada ligula. </p>
+							<img src="img/generic/generic-5-wide.jpg" class="img-fluid mb-5-5 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="650" alt="" />
 							<p class="text-3-5 font-weight-light mb-5-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ultricies nunc, eu interdum enim convallis pretium. Quisque eu neque augue. Aliquam egestas nunc at efficitur faucibus. Praesent mauris eros, tincidunt id enim sodales, rhoncus malesuada ligula. </p>
 							<div class="accordion custom-accordion-style-1 mb-5-5" id="accordion1">
 								<div class="card card-default">
@@ -172,7 +172,7 @@
 
 				<div class="position-relative pb-5 d-sm-none d-xl-block">
 					<div class="position-absolute transform3dy-n50 left-0">
-						<div class="appear-animation" data-appear-animation="fadeInRightShorterPlus" data-appear-animation-delay="1500" data-appear-animation-duration="1500ms">
+						<div class="appear-animation" data-appear-animation="fadeInRightShorterPlus" data-appear-animation-delay="1000" data-appear-animation-duration="1500ms">
 							<div class="custom-square-1 bg-primary mt-0 mb-5"></div>
 						</div>
 					</div>

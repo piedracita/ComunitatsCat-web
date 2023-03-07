@@ -39,9 +39,9 @@
 									<li class="active">Contacta'ns</li>
 								</ul>
 				                <h1 class="position-absolute top-100 left-0 text-color-light font-weight-bold text-6 line-height-3 text-end mt-5-5">
-				                    <span class="d-block position-relative z-index-1 pb-5 ps-lg-3 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="800">Contacta'ns</span>
+				                    <span class="d-block position-relative z-index-1 pb-5 ps-lg-3 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="200">Contacta'ns</span>
 				                    <span class="custom-svg-position-1 custom-svg-position-1-variation">
-				                        <svg class="svg-fill-color-dark mt-1 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 859.45 88.44" xml:space="preserve" preserveAspectRatio="none">
+				                        <svg class="svg-fill-color-dark mt-1 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 859.45 88.44" xml:space="preserve" preserveAspectRatio="none">
 				                            <polyline points="7.27,84.78 855.17,84.78 855.17,4.79 84.74,4.79 "/>
 				                        </svg>
 				                    </span>
@@ -53,7 +53,7 @@
 
 				<div class="container pt-4 pb-5 pb-sm-0 my-5">
 					<div class="row pb-2 mb-5">
-						<div class="col-lg-6 mb-4 mb-lg-0 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="1200">
+						<div class="col-lg-6 mb-4 mb-lg-0 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="500">
 							<div class="row">
 								<div class="col-auto">
 									<h3 class="d-block text-color-grey positive-ls-3 font-weight-medium text-2 mb-1">Trucan's</h3>
@@ -64,14 +64,14 @@
 								</div>
 								<div class="col-auto">
 									<h3 class="d-block text-color-grey positive-ls-3 font-weight-medium text-2 mb-1">ENVIAR E-MAIL</h3>
-									<a href="mailto:admin@comunitats.cat" target="_blank" class="d-flex align-items-center text-decoration-none text-color-dark text-color-hover-primary font-weight-bold text-3-5">
+									<a href="mailto:admin@comunitats.cat?subject=Comunitats" target="_blank" class="d-flex align-items-center text-decoration-none text-color-dark text-color-hover-primary font-weight-bold text-3-5">
 										<img width="23" height="23" src="img/icons/email.svg" alt="Enviar Correu Eletrònic" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-dark me-2'}" />
 										admin@comunitats.cat
 									</a>
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-6 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="1600">
+						<div class="col-lg-6 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="550">
 							<h3 class="d-block text-color-grey positive-ls-3 font-weight-medium text-2 mb-1">TROBA'NS</h3>
 							<span class="d-flex align-items-center text-color-dark font-weight-bold text-3-5">
 								<img width="23" height="23" src="img/icons/location.svg" alt="Imatge d'ubicació" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-dark me-2'}" />Alcalde Sala 2 | Bellpuig, 25250 | Lleida
@@ -139,7 +139,7 @@
 
 				<div class="position-relative pb-5 d-none d-xl-block">
 					<div class="position-absolute transform3dy-n50 left-0">
-						<div class="appear-animation" data-appear-animation="fadeInRightShorterPlus" data-appear-animation-delay="1500" data-appear-animation-duration="1500ms">
+						<div class="appear-animation" data-appear-animation="fadeInRightShorterPlus" data-appear-animation-delay="1000" data-appear-animation-duration="1500ms">
 							<div class="custom-square-1 bg-primary mt-0 mb-5"></div>
 						</div>
 					</div>

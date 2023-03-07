@@ -39,9 +39,9 @@
 									<li class="active">Serveis</li>
 								</ul>
 				                <h1 class="position-absolute top-100 left-0 text-color-light font-weight-bold text-6 line-height-3 text-end mt-5-5">
-				                    <span class="d-block position-relative z-index-1 pb-5 ps-lg-3 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="800">Serveis</span>
+				                    <span class="d-block position-relative z-index-1 pb-5 ps-lg-3 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="200">Serveis</span>
 				                    <span class="custom-svg-position-1 custom-svg-position-1-variation">
-				                        <svg class="svg-fill-color-dark mt-1 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 859.45 88.44" xml:space="preserve" preserveAspectRatio="none">
+				                        <svg class="svg-fill-color-dark mt-1 appear-animation" data-appear-animation="fadeInLeftShorterPlus" data-appear-animation-delay="50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 859.45 88.44" xml:space="preserve" preserveAspectRatio="none">
 				                            <polyline points="7.27,84.78 855.17,84.78 855.17,4.79 84.74,4.79 "/>
 				                        </svg>
 				                    </span>
@@ -53,9 +53,9 @@
 
 				<div class="container custom-margin-1">
 					<div class="row gy-5 gy-lg-0 pt-3 pt-lg-0 mt-5 mt-lg-0">
-						<div class="col-lg-8 order-lg-2 mt-0 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="1200">
+						<div class="col-lg-8 order-lg-2 mt-0 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="500">
 							<div class="row gy-5">
-								<div class="col-12 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="1400">
+								<div class="col-12 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="550">
 									<div class="d-flex flex-column flex-sm-row align-items-center align-items-sm-start">
 										
 										<div class="services-icons-services-page">
@@ -73,7 +73,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-12 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="1600">
+								<div class="col-12 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="600">
 									<div class="d-flex flex-column flex-sm-row align-items-center align-items-sm-start">
 										<div class="services-icons-services-page">
 											<i class="fa-solid fa-message"></i>
@@ -88,7 +88,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-12 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="1800">
+								<div class="col-12 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="650">
 									<div class="d-flex flex-column flex-sm-row align-items-center align-items-sm-start">
 										<div class="services-icons-services-page">
 											<i class="fa-solid fa-gavel"></i>
@@ -103,7 +103,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="col-12 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="300">
+								<div class="col-12 appear-animation" data-appear-animation="fadeInUpShorterPlus" data-appear-animation-delay="700">
 									<div class="d-flex flex-column flex-sm-row align-items-center align-items-sm-start">
 										<div class="services-icons-services-page">
 											<i class="fa-solid fa-money-check-dollar"></i>
@@ -129,7 +129,7 @@
 
 				<div class="position-relative pb-5 d-sm-none d-xl-block">
 					<div class="position-absolute transform3dy-n50 left-0">
-						<div class="appear-animation" data-appear-animation="fadeInRightShorterPlus" data-appear-animation-delay="1500" data-appear-animation-duration="1500ms">
+						<div class="appear-animation" data-appear-animation="fadeInRightShorterPlus" data-appear-animation-delay="1000" data-appear-animation-duration="1500ms">
 							<div class="custom-square-1 bg-primary mt-0 mb-5"></div>
 						</div>
 					</div>
